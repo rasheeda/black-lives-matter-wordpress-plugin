@@ -1,0 +1,26 @@
+.blm-banner-container {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: monaco, monospace;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+
+.blm-tweets {
+    background: #fd0;
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 1px;
+}
+
+.blm-what-to-do {
+  background: rgb(49, 238, 252);
+  padding: 5px;
+  border-radius: 1px;
+}
+
+a {    
+    color: black;
+}
