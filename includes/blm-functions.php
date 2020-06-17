@@ -5,7 +5,7 @@
  */
 function blm_register_css_style() 
 {
-    wp_register_style( 'blm-style', plugins_url('/black-lives-matter-solidarity-banner/public/css/style.css') );
+    wp_register_style( 'blm-style',  plugins_url('../public/css/style.css',  __FILE__) );
     wp_enqueue_style( 'blm-style');
 }
 
